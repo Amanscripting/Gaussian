@@ -63,6 +63,7 @@ RegisterNumber: 212224240011
 ## Output:
 ![gaussian elimination]()
 [Ex06-CR- Gaussian Elimination_ Attempt review _ SEC.pdf](https://github.com/user-attachments/files/23090031/Ex06-CR-.Gaussian.Elimination_.Attempt.review._.SEC.pdf)
+<img width="764" height="370" alt="Screenshot 2025-10-23 102914" src="https://github.com/user-attachments/assets/5d94a8d8-1b11-4a1e-9aa6-c6fe13b135d8" />
 
 
 ## Result:
