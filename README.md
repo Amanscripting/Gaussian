@@ -22,8 +22,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 '''
 Program to solve a matrix using Gaussian elimination without partial pivoting.
-Developed by: KABELAN G K
-RegisterNumber: 24900985
+Developed by: Aman Alam
+RegisterNumber: 212224240011
 '''
 import numpy as np
 import sys
@@ -61,9 +61,8 @@ RegisterNumber: 212224240011
 ```
 
 ## Output:
-![gaussian elimination]()
-[Ex06-CR- Gaussian Elimination_ Attempt review _ SEC.pdf](https://github.com/user-attachments/files/23090031/Ex06-CR-.Gaussian.Elimination_.Attempt.review._.SEC.pdf)
-<img width="764" height="370" alt="Screenshot 2025-10-23 102914" src="https://github.com/user-attachments/assets/5d94a8d8-1b11-4a1e-9aa6-c6fe13b135d8" />
+<img width="665" height="307" alt="Screenshot 2025-11-22 141239" src="https://github.com/user-attachments/assets/1a671e02-25be-4b1a-9d4e-34a121c0d6ea" />
+
 
 
 ## Result:
